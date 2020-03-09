@@ -1,4 +1,4 @@
-# Lista de Profissões
+# Lista de Profissões / Cargos
 > São exatamente 2889 profissões/cargos adicionados aqui.
 
 Eu precisei de uma lista com todas as profissões em um projeto e não encontrei na internet. 
